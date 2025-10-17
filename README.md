@@ -35,3 +35,9 @@ Use Spring Initializer: https://start.spring.io
 
 http://localhost:8080/me
 ```
+
+4. Live Deployment
+
+https://hng-stage-zero-75013322243.us-central1.run.app/me
+
+---
